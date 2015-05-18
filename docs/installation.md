@@ -3,6 +3,7 @@
 ## Requirements
 
 EncorePHP has a few system requirements before you can start developing
+
 * PHP >= 5.4
 * A supported GUI library
     * [wxWidgets/wxPHP](http://wxphp.org)
